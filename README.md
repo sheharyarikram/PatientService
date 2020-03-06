@@ -16,7 +16,7 @@ The app comes with an in-memory database with a few patient records already crea
 - Using Postman:
 	- Retrieve pagenated list of all patients via GET request:
 	
-			http://localhost:8080/tickets
+			http://localhost:8080/patients
 	
 			http://localhost:8080/v1/patients?page=0&size=10
 
