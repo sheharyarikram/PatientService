@@ -32,7 +32,7 @@ The app comes with an in-memory database with a few patient records already crea
 	
 			http://localhost:8080/v1/patients 
 			
-		with patient info in body: 
+			with patient info in body: 
 		
 			{"email":"john_wick@hotmail.com","firstName":"John","lastName":"Wick","birthDate":"1980-10-11","sex":"male"}
 
